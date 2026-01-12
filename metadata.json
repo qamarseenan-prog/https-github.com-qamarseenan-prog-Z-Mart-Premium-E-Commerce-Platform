@@ -1,0 +1,7 @@
+{
+  "name": "Z-Mart: Premium E-Commerce Platform",
+  "description": "A feature-rich e-commerce platform inspired by Daraz with multi-role support, advanced product management, and AI-powered description generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
